@@ -1,0 +1,11 @@
+.wraper{
+	max-width: 500px;
+	width: 100%;
+	/*background: #fff;*/
+	margin: 20px auto;
+	padding: 30px;
+}
+body{
+	background-color: rgb(232, 209, 13)
+
+}

@@ -1,0 +1,52 @@
+body{
+	background-color:rgb(232, 209, 13)
+}
+/**{
+			margin: 0px;
+			padding: 0px;
+	}
+body{
+			//*background-image: url(cargo.png);
+			background-position: center;
+			background-size: cover;
+			font-family: sans-serif;
+			margin-top: 40px;
+	}
+.formqb{
+	width: 800px;
+}
+#form2{
+	margin-left: 25px;
+	margin-top: 50px;
+	width: 125px;
+}*/
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+body{
+	padding: 0 10px;
+}
+.wraper{
+	max-width: 500px;
+	width: 100%;
+	background: #fff;
+	margin: 20px auto;
+	padding: 30px;
+}
+.wraper .formqb{
+	font-size: 25px;
+	text-align: center;
+    color:rgb(232, 209, 13)
+}
+.wraper #form2 .ini{
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+
+}
+.wraper #form2 .ini input{
+	width: 200px;
+	color: 757575;
+}
